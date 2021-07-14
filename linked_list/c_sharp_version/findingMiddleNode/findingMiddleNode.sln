@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findingMiddleNode", "findingMiddleNode\findingMiddleNode.csproj", "{05181483-F29E-48B8-9CF3-8D4D801AF1D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05181483-F29E-48B8-9CF3-8D4D801AF1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05181483-F29E-48B8-9CF3-8D4D801AF1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05181483-F29E-48B8-9CF3-8D4D801AF1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05181483-F29E-48B8-9CF3-8D4D801AF1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D32761-7259-4D4F-98A5-4CE19D79A080}
+	EndGlobalSection
+EndGlobal
