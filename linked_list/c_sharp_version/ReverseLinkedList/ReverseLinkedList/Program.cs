@@ -62,14 +62,13 @@ namespace ReverseLinkedList
 
                 while (currentNode.nextNode != null)
                 {
-                    prevNode = currentNode;
                     nextNode = currentNode.nextNode;
                     currentNode.nextNode = prevNode;
-                    currentNode = nextNode;
-                    
+                    prevNode = currentNode;
+                    currentNode = nextNode;    
                 }
 
-                head = currentNode;
+                head = prevNode;
             }
 
             public void Traverse()
